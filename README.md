@@ -6,6 +6,9 @@ SpaceBlocks Project's code (Assets not included)
 ## Description
 
 You are a delivery ship and must deliver your package on time. But beware of the obstacles on your way !
+
+More info [here](https://victorportfolio.eu/portfolio/spaceblock)
+
 [![Watch the video](https://images.squarespace-cdn.com/content/v1/6192c075ca1cf524b3d3834f/1676545589361-UA7TQBOC3TLHGYM1NXQN/SpaceBlockPicture.png)](https://youtu.be/Ox8UKBfAXmU)
 
 ## Status
