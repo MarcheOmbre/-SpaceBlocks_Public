@@ -1,0 +1,18 @@
+{
+    "name": "TravelMind.Components.Graphic",
+    "rootNamespace": "TravelMind",
+    "references": [
+        "GUID:a3cf1e2da6442c442a72c920408e6a87",
+        "GUID:175c63210541edb45933930b3426708b",
+        "GUID:4d19374f5394e6d41b1a4865a25c23ad"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

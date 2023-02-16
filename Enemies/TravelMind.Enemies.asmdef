@@ -1,0 +1,23 @@
+{
+    "name": "TravelMind.Enemies",
+    "rootNamespace": "TravelMind",
+    "references": [
+        "GUID:07e03a150d0db1b48ab357121dea8f33",
+        "GUID:175c63210541edb45933930b3426708b",
+        "GUID:9c5853d11d0b6d448802ecb9de5bd0a6",
+        "GUID:4d19374f5394e6d41b1a4865a25c23ad",
+        "GUID:d306930cd51eaa84980665dbd1424e99",
+        "GUID:c31b3cfcb878c1c48b4da16287d14e82",
+        "GUID:29ad718f0d8003d4bbda41563bcc8268",
+        "GUID:a3cf1e2da6442c442a72c920408e6a87"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

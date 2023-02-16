@@ -1,0 +1,21 @@
+{
+    "name": "TravelMind.UI",
+    "rootNamespace": "TravelMind",
+    "references": [
+        "GUID:8f930f9b9b1573848b69f52c11fb4949",
+        "GUID:175c63210541edb45933930b3426708b",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:c31b3cfcb878c1c48b4da16287d14e82",
+        "GUID:0b6e563132b109a459b8494e8caa63cc",
+        "GUID:a3cf1e2da6442c442a72c920408e6a87"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

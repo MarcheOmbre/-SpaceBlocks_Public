@@ -1,0 +1,19 @@
+{
+    "name": "TravelMind.Currencies",
+    "rootNamespace": "TravelMind",
+    "references": [
+        "GUID:175c63210541edb45933930b3426708b",
+        "GUID:07e03a150d0db1b48ab357121dea8f33",
+        "GUID:9c5853d11d0b6d448802ecb9de5bd0a6",
+        "GUID:9a5b561460ee75f479439de9659ddbc4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

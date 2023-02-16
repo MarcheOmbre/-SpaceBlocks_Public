@@ -1,0 +1,16 @@
+{
+    "name": "TravelMind.Shared",
+    "rootNamespace": "TravelMind",
+    "references": [
+        "GUID:07e03a150d0db1b48ab357121dea8f33"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
